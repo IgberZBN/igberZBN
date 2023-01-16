@@ -6,7 +6,7 @@
         <header><h2>Sobre mim:</h2></header>
         <p>Atualmente sou estudante Front-end, mas no futuro pretendo estudar Back-End para virar Desenvolvedor FullStack</p>
         <article>
-            <header><h3>Tecnologias que eu ultilizo:</h3></header>
+            <header><h3>Tecnologias que eu utilizo:</h3></header>
             <div id="container-tecs" align="center" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
