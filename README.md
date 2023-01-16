@@ -15,8 +15,8 @@
                 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL">
             </div>
             <div class="container-badgs" style="display: inline-block;" align="center">
-                <img height="250em" src="https://github-readme-stats.vercel.app/api?username=igberZBN&show_icons=true&theme=midnight-purple" alt="">
-                <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igberZBN&langs_count=6" alt="">
+                <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igberZBN&show_icons=true&theme=midnight-purple" alt="">
+                <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igberZBN&langs_count=6" alt="">
             </div>
         </article>
         <article>
