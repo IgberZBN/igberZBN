@@ -6,7 +6,7 @@
         <header><h2>Sobre mim:</h2></header>
         <p>Atualmente sou estudante Front-end, mas no futuro pretendo estudar Back-End para virar Desenvolvedor FullStack</p>
         <article>
-            <header><h3>Tecnologias que eu utilizo:</h3></header>
+            <header><h3>Tecnologias que eu ultilizo:</h3></header>
             <div id="container-tecs" align="center" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -15,8 +15,7 @@
                 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL">
             </div>
             <div class="container-badgs" style="display: inline-block;" align="center">
-                <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igberZBN&show_icons=true&theme=midnight-purple" alt="">
-                <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igberZBN&langs_count=6" alt="">
+                <img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igberZBN&theme=react&line_height=40&hide=css">
             </div>
         </article>
         <article>
