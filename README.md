@@ -3,7 +3,6 @@
         <h1>Salve !!!🍑👋😼 Me chamo Igber</h1>
     </header>
     <section>
-        <header><h2>Sobre mim:</h2></header>
         <p>Atualmente sou estudante Front-end, mas no futuro pretendo estudar Back-End para virar Desenvolvedor FullStack</p>
         <article>
             <header><h3>Tecnologias que eu ultilizo:</h3></header>
