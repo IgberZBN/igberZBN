@@ -17,7 +17,7 @@
                 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
             </div>
             <div class="container-badgs" style="display: inline-block;" align="center">
-                <img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igberZBN&theme=react&line_height=40&hide=css">
+                <img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igberZBN&theme=midnight-purple&line_height=40&hide=html,css">
             </div>
         </article>
     </section>
